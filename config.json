@@ -14,7 +14,7 @@
     "adminOnly": false,
     "encryptSt": false,
     "FACEBOOK_ADMIN": "m.me/100009801367183",
-    "ACCESSTOKEN": "EAAD6V7os0gcBO03aOdgkmcQp8RiOHJAbUIbp5kOwPOP0SCfnlPBcKxG9fqCRYZCaW03ZBgFQPNZAbNg0oMNk2ZC9mQewVD7FQZBcgeB70UWLx7sADIcFSlNbwrrr5eooGoMP2hQsPInJVdZADHf4AbmpXozqXAnAKx4VMsQGzSJHanInbwDJdxASaFJwZDZD",
+    "ACCESSTOKEN": "",
     "UPTIME": 1231526.035836716,
     "AutoRestartMinutes": 240,
     "RestartMQTT_Minutes": 60,
