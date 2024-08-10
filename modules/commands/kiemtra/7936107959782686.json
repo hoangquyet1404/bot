@@ -1,0 +1,88 @@
+{
+    "total": [
+        {
+            "id": "100073796705872",
+            "count": 0
+        },
+        {
+            "id": "100072509377601",
+            "count": 47
+        },
+        {
+            "id": "100041369492342",
+            "count": 54
+        }
+    ],
+    "week": [
+        {
+            "id": "100073796705872",
+            "count": 0,
+            "name": "Nguyễn Linh"
+        },
+        {
+            "id": "100072509377601",
+            "count": 0,
+            "name": "Minh Phát"
+        },
+        {
+            "id": "100041369492342",
+            "count": 0,
+            "name": "Nguyễn Khải"
+        }
+    ],
+    "day": [
+        {
+            "id": "100073796705872",
+            "count": 0,
+            "name": "Nguyễn Linh"
+        },
+        {
+            "id": "100072509377601",
+            "count": 0,
+            "name": "Minh Phát"
+        },
+        {
+            "id": "100041369492342",
+            "count": 0,
+            "name": "Nguyễn Khải"
+        }
+    ],
+    "time": 6,
+    "last": {
+        "time": 2,
+        "day": [
+            {
+                "id": "100073796705872",
+                "count": 0,
+                "name": "Nguyễn Linh"
+            },
+            {
+                "id": "100072509377601",
+                "count": 0,
+                "name": "Minh Phát"
+            },
+            {
+                "id": "100041369492342",
+                "count": 0,
+                "name": "Nguyễn Khải"
+            }
+        ],
+        "week": [
+            {
+                "id": "100073796705872",
+                "count": 0,
+                "name": "Nguyễn Linh"
+            },
+            {
+                "id": "100072509377601",
+                "count": 0,
+                "name": "Minh Phát"
+            },
+            {
+                "id": "100041369492342",
+                "count": 0,
+                "name": "Nguyễn Khải"
+            }
+        ]
+    }
+}

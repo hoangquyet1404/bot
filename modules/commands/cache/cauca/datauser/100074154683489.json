@@ -1,0 +1,45 @@
+{
+  "name": "Hg Nhung",
+  "ID": "100074154683489",
+  "mainROD": "Jeweled Tungsten Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Arctic"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 30,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 2,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Jeweled Tungsten Harpoon",
+      "price": 29000,
+      "durability": 870,
+      "countdown": 30,
+      "countdownData": 1720536538570,
+      "image": "https://i.imgur.com/P4l8Ivq.jpg"
+    }
+  ],
+  "timeRegister": "11:09:55 9/7/2024"
+}

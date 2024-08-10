@@ -1,0 +1,35 @@
+{
+    "account_number": "124105",
+    "uid": "100009801367183",
+    "balance": "0",
+    "created_at": 1721032206840,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000",
+            "author": "100009801367183",
+            "time": 1721601614625
+        },
+        {
+            "type": "repay",
+            "amount": "10000",
+            "author": "100009801367183",
+            "time": 1721601643892
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1724798721581,
+        "reason": "Qua 7 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1721688014719,
+        "debt": 1721605214719
+    },
+    "pass": "7996",
+    "timestamp_due_repay": 1722206414624
+}

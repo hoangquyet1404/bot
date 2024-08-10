@@ -1,0 +1,171 @@
+[
+    {
+        "threadID": "7521002927997636",
+        "shortcuts": [
+            {
+                "input_type": "autosend",
+                "output": "Đầu buồi ăn cứt",
+                "hours": "18:15:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "join",
+                "output": "Chào mừng {name} đã đến với {nameThread} bạn là thành viên {soThanhVien} của nhóm \nLink: {link}\nNgười add: {authorName}",
+                "uri": "https://files.catbox.moe/kcxu4p.jpeg"
+            }
+        ]
+    },
+    {
+        "threadID": "6137019039752997",
+        "shortcuts": [
+            {
+                "output": "Tag cái đb m {name}",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100009801367183"
+            }
+        ]
+    },
+    {
+        "threadID": "25913166924997476",
+        "shortcuts": [
+            {
+                "output": "Tag cl {name}",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100009801367183"
+            }
+        ]
+    },
+    {
+        "threadID": "6646878202079850",
+        "shortcuts": [
+            {
+                "output": "Tag cái cl {name}",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100009801367183"
+            }
+        ]
+    },
+    {
+        "threadID": "7429146570505184",
+        "shortcuts": [
+            {
+                "output": "Tag tag cái củ l {name}",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100009801367183"
+            },
+            {
+                "input": "Vãi ơ",
+                "output": "~~~",
+                "uri": "https://files.catbox.moe/z28997.jpg"
+            }
+        ]
+    },
+    {
+        "threadID": "25394261210220590",
+        "shortcuts": [
+            {
+                "input_type": "autosend",
+                "output": "Fuck you ae",
+                "hours": "08:00:00",
+                "uri": "https://files.catbox.moe/whz390.mp4"
+            }
+        ]
+    },
+    {
+        "threadID": "4720016364769553",
+        "shortcuts": [
+            {
+                "output": "Tag tag cái củ l {name}",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100009801367183"
+            }
+        ]
+    },
+    {
+        "threadID": "8244031532284657",
+        "shortcuts": [
+            {
+                "input": "Id 4",
+                "output": "NAME Kotenthuhai\nID GAME 1625323560",
+                "uri": "s"
+            },
+            {
+                "input": "Id 10",
+                "output": "NAME Sáng\nID GAME 1611003531",
+                "uri": "s"
+            },
+            {
+                "input": "Id Anh Hàng Xóm",
+                "output": "ID GAME 463606192",
+                "uri": "s"
+            },
+            {
+                "input": "+checksquad",
+                "output": "SQUAD AG ANGEL \nID TỔ ĐỘI 5750282",
+                "uri": "https://files.catbox.moe/mr1la1.jpg"
+            },
+            {
+                "input": "Id 11",
+                "output": "INGAME Kizzy\nID GAME 463606192",
+                "uri": "s"
+            },
+            {
+                "input": "Id 1",
+                "output": "NAME HEAVEN GAMING\nID GAME 1124496158",
+                "uri": "s"
+            },
+            {
+                "input": "+shop",
+                "output": "💎Heaven Gaming Mua Bán Acc Vật Phẩm Game MLBB💎\n✅OCB 0786707712\n👑CTK LE CONG CHU\n🌍ACB 39305257\n☎️PHONE 0865637709",
+                "uri": "https://files.catbox.moe/882vnn.jpg"
+            },
+            {
+                "input": "Id 12",
+                "output": "NAME Duck so bad!\nID GAME 750430525",
+                "uri": "s"
+            },
+            {
+                "output": "Tag làm cái gì tao với nó đang đi nhà nghỉ",
+                "uri": "https://files.catbox.moe/8pln8i.jpg",
+                "input_type": "tag",
+                "tag_id": "61561620350317"
+            },
+            {
+                "input": "Id 2",
+                "output": "NAME Yuuichi \nID GAME 137679473",
+                "uri": "s"
+            },
+            {
+                "input": "Id 9",
+                "output": "NAME A.Atris*50\nID GAME 1567966074",
+                "uri": "s"
+            },
+            {
+                "input": "Id 13",
+                "output": "NAME (☞^o^) ☞\nID GAME 542907656",
+                "uri": "s"
+            },
+            {
+                "input": "+donate",
+                "output": "🔥TÍCH GÓP NHỎ🔥\n❤️TẠO EVENT TO❤️\n✅OCB 0786707712\n👑CTK LE CONG CHU\n🌍ACB 39305257\n☎️PHONE 0865637709\n💵NẾU HV THU NHẬP ỔN THÌ SẼ TỰ TẠO💵",
+                "uri": "https://files.catbox.moe/fa7l58.jpg"
+            }
+        ]
+    },
+    {
+        "threadID": "7626449210814266",
+        "shortcuts": [
+            {
+                "output": "Tag tag cc {name}",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100009801367183"
+            }
+        ]
+    }
+]

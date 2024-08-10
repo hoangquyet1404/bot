@@ -1,0 +1,112 @@
+{
+    "total": [
+        {
+            "id": "61553392607991",
+            "count": 1
+        },
+        {
+            "id": "100009801367183",
+            "count": 1
+        },
+        {
+            "id": "100041369492342",
+            "count": 0
+        },
+        {
+            "id": "100059968770491",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "61553392607991",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100009801367183",
+            "count": 0,
+            "name": "Quyết Hoàng"
+        },
+        {
+            "id": "100041369492342",
+            "count": 0,
+            "name": "Nguyễn Khải"
+        },
+        {
+            "id": "100059968770491",
+            "count": 0,
+            "name": "Phạm Thị Trang"
+        }
+    ],
+    "day": [
+        {
+            "id": "61553392607991",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100009801367183",
+            "count": 0,
+            "name": "Quyết Hoàng"
+        },
+        {
+            "id": "100041369492342",
+            "count": 0,
+            "name": "Nguyễn Khải"
+        },
+        {
+            "id": "100059968770491",
+            "count": 0,
+            "name": "Phạm Thị Trang"
+        }
+    ],
+    "time": 6,
+    "last": {
+        "time": 1,
+        "day": [
+            {
+                "id": "61553392607991",
+                "count": 0,
+                "name": "Người dùng Facebook"
+            },
+            {
+                "id": "100009801367183",
+                "count": 0,
+                "name": "Quyết Hoàng"
+            },
+            {
+                "id": "100041369492342",
+                "count": 0,
+                "name": "Nguyễn Khải"
+            },
+            {
+                "id": "100059968770491",
+                "count": 0,
+                "name": "Phạm Thị Trang"
+            }
+        ],
+        "week": [
+            {
+                "id": "61553392607991",
+                "count": 0,
+                "name": "Người dùng Facebook"
+            },
+            {
+                "id": "100009801367183",
+                "count": 0,
+                "name": "Quyết Hoàng"
+            },
+            {
+                "id": "100041369492342",
+                "count": 0,
+                "name": "Nguyễn Khải"
+            },
+            {
+                "id": "100059968770491",
+                "count": 0,
+                "name": "Phạm Thị Trang"
+            }
+        ]
+    }
+}

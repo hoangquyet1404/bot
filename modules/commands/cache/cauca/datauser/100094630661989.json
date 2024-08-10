@@ -1,0 +1,20 @@
+{
+    "name": "Lê Tuấn",
+    "ID": "100094630661989",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "11:14:10 9/7/2024"
+}
